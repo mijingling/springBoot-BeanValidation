@@ -1,0 +1,6 @@
+# Server settings (ServerProperties)
+server:
+  port: 8098
+  address: localhost
+  sessionTimeout: 30
+  contextPath: /
